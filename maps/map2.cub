@@ -1,0 +1,17 @@
+SO xpms/wall_east.xpm
+WE xpms/wall_north.xpm
+NO xpms/wall_south.xpm
+F 12,13,55
+EA xpms/wall_west.xpm
+C 25,20,123
+
+11111111
+100010E1
+10100011
+10000001 111
+10100001 101
+10100001 111
+10100001
+10100001
+10100001
+11111111
